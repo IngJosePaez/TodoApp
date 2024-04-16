@@ -1,0 +1,23 @@
+
+/*Procuro anotar todo por mas detallado que sea para comprender mejor todo*/
+
+#root { /* Estilo para el elemento con el id 'root' */
+  margin: 0; /* Establece el margen del elemento a 0 */
+
+}
+
+/* Estilo para el contenedor de tareas */
+.containerTasks {
+  width: 100%; /* Establece el ancho del contenedor al 100% del ancho disponible */
+    height: 55px;/* Establece la altura del contenedor a 55px */
+    display: flex; /* Utiliza el modelo de caja flexible para organizar los elementos secundarios */
+    justify-content: space-between; /* Distribuye los elementos secundarios de manera uniforme con el espacio sobrante entre ellos */
+}
+
+/* Estilo para el botón de eliminar */
+.buttonDelete {
+    height: 100%;/* Establece la altura del botón al 100% del tamaño de su contenedor */
+    width: 30px; /* Establece el ancho del botón a 30px */
+    background: #ff7373; /* Establece el color de fondo del botón a un tono de rojo */
+    color: #fff; /* Establece el color del texto del botón a blanco */
+}
