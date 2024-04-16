@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "private": true,
-  "homepage":"http://IngJosePaez.github.io/TodoApp",
+  "homepage":"https://ingjosepaez.github.io/TodoApp/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
